@@ -67,10 +67,10 @@ run_script "scripts_bin/05-fonts.sh"
 run_script "scripts_bin/06-starship.sh"
 
 # 7. Sway Install (Cartelle e Wallpaper)
-run_script "scripts_bin/07-sway-install.sh"
+# run_script "scripts_bin/07-sway-install.sh"
 
 # 8. Sway Config (Dotfiles e Tweak T490)
-run_script "scripts_bin/08-sway-config.sh"
+# run_script "scripts_bin/08-sway-config.sh"
 
 # --- 3. CONFIGURAZIONE FINALE SISTEMA ---
 
